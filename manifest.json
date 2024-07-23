@@ -1,6 +1,6 @@
 {
-    "name": "my_static_web",
-    "short_name": "my_static_web",
+    "name": "psycholog_page",
+    "short_name": "psycholog_page",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
