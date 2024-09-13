@@ -1,11 +1,11 @@
 {
-    "name": "Perspektywa",
-    "short_name": "P",
+    "name": "Psycholog Zarzecka",
+    "short_name": "Psycholog Zarzecka",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
-    "description": "Centrum Psychologiczne Perspektywa to miejsce, gdzie troska o zdrowie psychiczne i dobrostan emocjonalny jest naszym priorytetem. Nasz zespół wykwalifikowanych psychologów, terapeutów i coachów oferuje kompleksowe wsparcie w zakresie terapii indywidualnej, par, rodzinnej oraz grupowej. Specjalizujemy się w leczeniu różnorodnych problemów, takich jak depresja, lęki, stres, trudności w relacjach interpersonalnych oraz zaburzenia zachowania.",
+    "description": "Psycholog Zarzecka - profesjonalna pomoc psychologiczna w radzeniu sobie ze stresem, problemami emocjonalnymi oraz trudnościami osobistymi i zawodowymi.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
